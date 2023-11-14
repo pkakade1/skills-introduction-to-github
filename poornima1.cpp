@@ -11,7 +11,7 @@
 using namespace std;
 
 int main() 
-{
+{       
     cout << "This code contains multiple syntax errors.\n" << endl; 
     cout << "These need to be fixed before you submit it.\n" << endl; 
     cout << "Fixed by POORNIMA." << endl; 
